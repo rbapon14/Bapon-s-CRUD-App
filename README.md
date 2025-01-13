@@ -6,6 +6,7 @@ Bapon's CRUD Application is a full-stack application that allows users to perfor
 - Frontend: React
 - Backend: Express.js
 - Database: SQLite
+- Testing Tool: Postman
 - Other Tools and Libraries: Axios for HTTP requests, CORS middleware for cross-origin resource sharing.
 
 This project demonstrates the seamless integration of a RESTful API with a React frontend, making it a perfect example for beginners and developers exploring full-stack development.
